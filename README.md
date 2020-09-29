@@ -1,0 +1,2 @@
+In this guided project, we used a ResNet-18 model and trained it on a COVID-19 Radiography dataset. The dataset had nearly 3000 Chest X-Ray scans which were categorized in three classes - Normal, Viral Pneumonia and COVID-19. Our objective in the project was to create an image classification model that can predict Chest X-Ray scans that belong to one of the three classes with a reasonably high accuracy.
+\
